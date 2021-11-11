@@ -1,2 +1,2 @@
-# Chainweb-Mining-Client-Binaries
+# Chainweb Mining Client Binaries
 Binaries for Chainweb Mining Client
